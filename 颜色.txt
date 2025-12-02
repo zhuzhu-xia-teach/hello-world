@@ -2,4 +2,4 @@ red
 blue
 yellow
 black
-white
+ten
