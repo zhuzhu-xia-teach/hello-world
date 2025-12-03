@@ -4,5 +4,6 @@ yellow
 black
 ten
 pink
-
 boom
+white
+
