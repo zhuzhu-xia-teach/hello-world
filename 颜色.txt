@@ -4,5 +4,4 @@ yellow
 black
 ten
 pink
-white
 
